@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{38C138D2-90D8-48CA-BB39-BB972C42A948}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SDKU/Form1.cs">
+    <Files>
+      <File FileName="SDKU/Program.cs" Line="13" Column="20" />
+      <File FileName="SDKU/Sdku.cs" Line="40" Column="21" />
+      <File FileName="SDKU/Form1.Designer.cs" Line="109" Column="44" />
+      <File FileName="SDKU/Form1.cs" Line="110" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SDKU PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

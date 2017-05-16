@@ -1,0 +1,8 @@
+/Users/ellin/Desktop/OneDrive/文档/cs/SDKU/SDKU/obj/Release/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/ellin/Desktop/OneDrive/文档/cs/SDKU/SDKU/obj/Release/SDKU.Form1.resources
+/Users/ellin/Desktop/OneDrive/文档/cs/SDKU/SDKU/obj/Release/SDKU.Properties.Resources.resources
+/Users/ellin/Desktop/OneDrive/文档/cs/SDKU/SDKU/bin/Release/SDKU.exe.config
+/Users/ellin/Desktop/OneDrive/文档/cs/SDKU/SDKU/bin/Release/SDKU.exe.mdb
+/Users/ellin/Desktop/OneDrive/文档/cs/SDKU/SDKU/bin/Release/SDKU.exe
+/Users/ellin/Desktop/OneDrive/文档/cs/SDKU/SDKU/obj/Release/SDKU.exe
+/Users/ellin/Desktop/OneDrive/文档/cs/SDKU/SDKU/obj/Release/SDKU.exe.mdb
