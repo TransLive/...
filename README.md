@@ -1,2 +1,2 @@
-# LangPrac
+# Sudoku
 Practice repo for languages
